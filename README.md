@@ -105,7 +105,7 @@ Python · OpenCV · MediaPipe · NumPy · scikit-learn
 
 ## Team
 - **Debjit Biswas** - [@DebjitXD](https://github.com/DebjitXD)
-- **[Partner name]** - [@partner-username](https://github.com/partner-username)
+- **[Partner name]** - [@partner-username](https://github.com/sealsristi)
 
 ## License
 Released under the [MIT License](LICENSE).
